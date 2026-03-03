@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Anshika Guleria 🌷</h1>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+I%27m+Anshika+Guleria+🎀&color=FF69B4&center=true&width=700&duration=3000&repeat=false&size=35)](https://git.io/typing-svg)
+
+</div>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshika-guleria&label=Profile%20Views&color=DB7093&style=flat" />
 </p>
