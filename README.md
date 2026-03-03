@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Anshika Guleria 🌷</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshika-guleria&label=Profile%20Views&color=C71585&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320"/>
 </p>
 
@@ -9,7 +13,7 @@ Full Stack Developer • Design × Architecture • Intentional Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=23&pause=1200&color=C71585&center=true&vCenter=true&width=700&lines=Building+intentional+web+experiences;Full+Stack+Developer;Clean+UI+%2B+Structured+Backend;Always+learning+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=23&pause=1200&color=C71585&center=true&vCenter=true&width=700&lines=Building+intentional+web+experiences;Design+meets+logic;Full+Stack+Developer;Clean+UI+%2B+Structured+Backend;Always+learning+✨" />
 </p>
 
 ---
@@ -35,8 +39,6 @@ For me, development is both logic and art.
 
 ---
 
----
-
 ## ☁️ Deployment & Platforms
 
 <p align="center">
@@ -46,21 +48,13 @@ For me, development is both logic and art.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshika-guleria&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-guleria&theme=default&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-guleria&layout=compact&count_private=true&theme=default&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-guleria&theme=rose-pine&hide_border=true&stroke=0000&ring=C71585&fire=DB7093&currStreakLabel=C71585&sideNums=555&currStreakNum=C71585&dates=888"
+    height="175"
+  />
 </p>
 
 ---
