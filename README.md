@@ -1,31 +1,82 @@
+<!-- HEADER SECTION -->
 <h1 align="center">Hi 👋, I'm Anshika Guleria</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">✨ Full Stack Developer | Problem Solver | Tech Enthusiast ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ans53&label=Profile%20views&color=0e75b6&style=flat" alt="ans53" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ans53" alt="ans53" /></a> </p>
-
-- 🌱 I’m currently learning **React, Tailwind and Express**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **anshika.guleria.dev.@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anshika-guleria-039b01268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshika-guleria-039b01268" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=22&duration=3000&color=F48FB1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Cute+and+Creative+UI;Lover+of+Clean+Code;Always+Learning+New+Things+🌷" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ans53&show_icons=true&locale=en&layout=compact" alt="ans53" /></p>
+## 🌷 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ans53&show_icons=true&locale=en" alt="ans53" /></p>
+- 💻 Currently working on **Full Stack Projects**
+- 🚀 Exploring **Modern Web Technologies**
+- 🧠 Practicing **DSA & System Design**
+- 🌸 I love creating **cute & aesthetic UIs**
+- ☕ Fun fact: I debug better with coffee
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ans53&" alt="ans53" /></p>
+---
 
-  🌷 <i>Learning every day. Growing quietly. Building confidently.</i>
+## 💗 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,c,cpp" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🫧 PrepPal
+> A real-time communication & collaboration platform
+
+- 💬 Chat system with socket integration
+- 📁 File & PDF uploads
+- ☁️ Cloudinary integration
+- 🎥 Video call support
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true&background=0d1117" height="170"/>
+</p>
+
+---
+
+## 🌈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+## 🌸 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-1e1e2f?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f8c8dc?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💖 <i>"Code. Create. Improve. Repeat."</i> 💖
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=footer"/>
 </p>
 
 
