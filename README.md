@@ -50,13 +50,29 @@ I build full-stack systems that strike a balance between elegance and scalabilit
 ---
 
 ## 🔥 Streak Stats
+<div align="center">
 
-<p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-guleria&theme=rose-pine&hide_border=true&ring=DB7093&fire=C71585&currStreakLabel=DB7093"
-    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-guleria&theme=rose-pine&hide_border=true&background=191724&ring=eb6f92&fire=87ceeb&currStreakLabel=eb6f92&sideLabels=87ceeb&dates=87ceeb"
+    height="180"
   />
-</p>
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshika-guleria&theme=jolly" 
+    height="250"
+  />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshika-guleria&theme=jolly" height="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshika-guleria&theme=radical" height="250"/>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshika-guleria&theme=jolly" height="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshika-guleria&theme=jolly" height="250"/>
+
+</div>
 
 ---
 
