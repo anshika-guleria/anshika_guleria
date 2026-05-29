@@ -76,15 +76,6 @@ I build full-stack systems that strike a balance between elegance and scalabilit
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anshika-guleria&theme=rose-pine&hide_border=true&color=DB7093&line=C71585&point=777" 
-    width="92%"
-  />
-</p>
-
 
 <p align="center">
 Backend Architecture • System Design • Performance Optimization
